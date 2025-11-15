@@ -1,4 +1,4 @@
-# N & M CAR SALES ANALYSIS – README
+# N & M CAR SALES ANALYSIS 
 
 # Purpose
 This project analyzes historical car sales data from N & M Motors to generate insights that will support the newly appointed Head of Sales in improving sales performance, optimizing inventory, and identifying key revenue drivers.
