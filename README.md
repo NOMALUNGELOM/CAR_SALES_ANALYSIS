@@ -33,7 +33,7 @@ The analysis supports strategic decision-making for dealership expansion, pricin
 # Market Preferences & Trends
 1. Vehicle Make: Ford is the most popular make, selling significantly more units than the next popular brand, Chevrolet.
 2. Transmission & Color: The market overwhelmingly prefers automatic transmissions (85.35%) and black exteriors.
-3. Predictable Cycles: Sales follow seasonal patterns, peaking in January and February, and daily, peaking between 8 AM and 4 PM (pp. 6, 9). Revenue spiked dramatically in 2015.
+3. Predictable Cycles: Sales follow seasonal patterns, peaking in January and February, and daily, peaking between 8 AM and 4 PM. Revenue spiked dramatically in 2015.
 # Recommendations
 1. Maximize high-value streams by protecting the high-margin segment and optimizing marketing for top-selling models.
 2. Optimize operations by aligning inventory, staffing, and marketing campaigns with identified peak demands.
