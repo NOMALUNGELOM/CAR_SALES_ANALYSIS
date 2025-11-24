@@ -10,6 +10,17 @@ The dataset “N & M Car Sales” includes daily transactional and pricing infor
 As an Analyst, my role involved cleaning the dataset, transforming pricing and cost fields, and identifying trends in revenue, top-performing models, and regional sales distribution.
 The analysis supports strategic decision-making for dealership expansion, pricing strategies, and customer demand forecasting.
 
+# How the Case Study Was Conducted
+I began by cleaning the data and standardizing the numerical fields such as selling price, condition levels, MMR, and model year. I validated accuracy checks, ensured consistency in formatting, and removed invalid or incomplete data.
+
+# I then performed:
+- SQL-based queries to calculate revenue, sales quantity, and margin distributions
+- Visualization-driven analysis to identify trends over time, regional performance, and categorical preferences
+- Comparative review of brand vs. pricing behavior
+- Time-based analysis to determine peak sales periods (by season and time of day)
+
+This approach enabled a structured examination of what sells best, when sales are strongest, and where performance can be improved.
+
 # Objectives
 1. Identify car makes and models that generate the most revenue
 2. Analyze the relationship between selling price, manufacturing year, mmr, and condition
